@@ -31,7 +31,4 @@ class Game
   end
 end
 
-
-g = Game.new
-g.run_game
   

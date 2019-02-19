@@ -1,10 +1,7 @@
-require './player.rb'
-require './question.rb'
 
-# p1 = Player.new('P1')
+require './game.rb'
 
-
-q = Question.new
-
+game = Game.new
+game.run_game
 
 
