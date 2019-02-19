@@ -6,9 +6,13 @@
   * Lose life
     lives --
 
-### Class turn
+
+
+
+
+### class question
+- makes questions
 - generates question
-- takes answer 
 - checks answers
 
 ### Class game
@@ -16,3 +20,4 @@
 - players array
 - method - game continue 
 - method - game end
+- takes answer 
