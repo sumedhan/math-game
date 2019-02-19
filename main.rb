@@ -7,7 +7,4 @@ require './question.rb'
 q = Question.new
 
 
-puts q.statement
-ans = gets.chomp.to_i
-puts q.check_answer(ans)
 
